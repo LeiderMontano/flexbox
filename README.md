@@ -1,2 +1,2 @@
-# flexbox
-conociendo flexbox
+# Flexbox
+Conociendo tecnica Flexbox con Alura LATAM.
